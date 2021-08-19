@@ -1,6 +1,6 @@
 # Emoji-Creator
 
-# Requirements            ** Note: these are the package version used while building the project
+# Requirements            ** Note: these are the packages version used while building the project
 1. python >= v3.8
 2. tensorflow >= 2.4
 3. opencv = v4.5.3
