@@ -8,6 +8,7 @@ from tensorflow.keras.layers import MaxPooling2D
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
 import os.path
 
+# NEED TO EDIT HERE
 train_dir = 'data/train'
 val_dir = 'data/test'
 train_datagen = ImageDataGenerator(rescale=1./255)
@@ -56,6 +57,7 @@ emotion_model_info = emotion_model.fit_generator(
         validation_data=validation_generator,
         validation_steps=7178 // 64)
 
+# checking if same model file exist or not
 if os.path.isfile('models/emotion_model.h5') is False:
         emotion_model.save('models/emotion_model.h5')
 
