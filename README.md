@@ -2,8 +2,8 @@
 
 # Requirements            ** Note: these are the package version used while building the project
 1. python >= v3.8
-2. tensorflow > =2.4
-3. opencv = v 4.5.3
+2. tensorflow >= 2.4
+3. opencv = v4.5.3
 4. PIL: pillow = v7.2.0
 5. Cuda : for use of GPU for faster training time
 
