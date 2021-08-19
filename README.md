@@ -8,7 +8,7 @@
 5. Cuda : for use of GPU for faster training time
 
 
-# Steps to follow for your ease
+# Steps to follow for your convenience
 
 1. download and install python from https://www.python.org/downloads/
 2. pip install tensorflow
