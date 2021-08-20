@@ -53,7 +53,6 @@ validation_generator = val_datagen.flow_from_directory(
         batch_size=64,
         color_mode="grayscale",
         class_mode='categorical')
-
 #crete model
 emotion_model = Sequential()
 
