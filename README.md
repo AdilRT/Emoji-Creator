@@ -10,9 +10,8 @@
 
 # Steps to follow for your convenience
 
-1. download and install python from https://www.python.org/downloads/
-2. pip install tensorflow
-3. pip install opencv-python OR pip install opencv-contrib-python [for additional opencv community files]
-4. pip install Pillow
+1. pip install tensorflow
+2. pip install opencv-python OR pip install opencv-contrib-python [for additional opencv community files]
+3. pip install Pillow
 
 # original dataset from https://www.kaggle.com/msambare/fer2013
