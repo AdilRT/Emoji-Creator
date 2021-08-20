@@ -15,3 +15,4 @@
 3. pip install opencv-python OR pip install opencv-contrib-python [for additional opencv community files]
 4. pip install Pillow
 
+# original dataset from https://www.kaggle.com/msambare/fer2013
