@@ -13,5 +13,5 @@
 1. download and install python from https://www.python.org/downloads/
 2. pip install tensorflow
 3. pip install opencv-python OR pip install opencv-contrib-python [for additional opencv community files]
-4. pip install Pillow
+4. pip install pillow
 
