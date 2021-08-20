@@ -1,7 +1,4 @@
 import os
-import tkinter as tk
-from tkinter import *
-
 import tensorflow as tf
 from tensorflow import keras
 import cv2
